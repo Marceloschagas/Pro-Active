@@ -1,0 +1,5 @@
+{
+  "name": "Pro Active",
+  "description": "A high-end financial management dashboard for balance sheets and KPIs, featuring AI-powered insights, Excel/CSV integration, and local database persistence.",
+  "requestFramePermissions": []
+}
